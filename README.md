@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+Engineer;DeepLearning+Practitioner;2%2B+Years+Experience)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+Engineer;DeepLearning+Practitioner;3%3B+Years+Experience)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HudhaifaGburi2&color=2E86AB&style=flat-square)](https://github.com/HudhaifaGburi2)
 
